@@ -1,0 +1,43 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css";
+.bg-yellow{
+    background-color: #f7c04e;
+}
+.py-6{
+    padding: 150px 0px;
+}
+.bg-soft-black{
+    background-color: #000000;
+    opacity: .9;
+}
+.bg-black{
+    background-color: #000000;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -72px;
+}
+.pt-6{
+    padding-top: 200px;
+}
+.bg-gradient{
+    background: linear-gradient(170deg,#ed6670,#f2ad4e);
+}
+.btn-success{
+    background-color: #1db954 !important;
+    border-radius: 10px;
+}
+.btn-outline-secondary{
+    border-radius: 10px;
+}
+.green-color{
+    color: #1db954 !important;
+}
+.shadow{
+    box-shadow: 0px 5px 10px #000000;
+}
+
+@media(max-width:992px){
+    .display-3{
+        font-size:35px !important;
+    }
+}
